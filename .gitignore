@@ -27,4 +27,4 @@ pnpm-workspace.yaml
 vercel.json
 
 # Lock files (pnpm generates these)
-pnpm-lock.yaml
+# pnpm-lock.yaml (needed for Cloudflare)
